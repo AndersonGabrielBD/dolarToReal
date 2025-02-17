@@ -1,2 +1,2 @@
 # dolarToReal
-Projeto praticar JavaScript, conversor de dolar para real.
+Projeto para praticar JavaScript, conversor de dolar para real.
